@@ -14,7 +14,7 @@ Para realizar pruebas se utilizó los algoritmos naive Bayes o J48 utilizando el
  
  Versión usada: Eclipse Luna Service Release 2 (4.4.2)
  
- # Fases del proyecto
+# Fases del proyecto
 
 | Fases       | Descripción          |
 | ------------- |:-------------:| 
