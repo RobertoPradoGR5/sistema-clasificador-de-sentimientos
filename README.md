@@ -13,3 +13,11 @@ Para realizar pruebas se utilizó los algoritmos naive Bayes o J48 utilizando el
  Eclipse es una plataforma de software compuesto por un conjunto de herramientas de programación de código abierto multiplataforma para desarrollar lo que el proyecto llama "Aplicaciones de Cliente Enriquecido", opuesto a las aplicaciones "Cliente-liviano" basadas en navegadores.
  
  Versión usada: Eclipse Luna Service Release 2 (4.4.2)
+ 
+ #Fases del proyecto
+
+| Fases       | Descripción          |
+| ------------- |:-------------:| 
+| Inicio      | El clasificador debe ser capaz de discernir qué tipo de información subjetiva expresa cada oración de un libro. | 
+| col 2 is      | centered      |   
+| zebra stripes | are neat      |   
