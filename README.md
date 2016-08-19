@@ -18,8 +18,6 @@ Para realizar pruebas se utilizó los algoritmos naive Bayes o J48 utilizando el
 
 | Fases       | Descripción          |
 | ------------- |:-------------:| 
-| Inicio      | El clasificador debe ser capaz de discernir qué tipo de información subjetiva expresa cada oración de un libro.
-
-Por ejemplo,| 
+| Inicio      | El clasificador debe ser capaz de discernir qué tipo de información subjetiva expresa cada oración de un libro. Por ejemplo,| 
 | col 2 is      | centered      |   
 | zebra stripes | are neat      |   
