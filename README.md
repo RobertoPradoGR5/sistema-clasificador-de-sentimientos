@@ -32,4 +32,7 @@ Para realizar pruebas se utilizó los algoritmos naive Bayes o J48 utilizando el
 
 ## Archivos necesarios
 * Libro en formato txt para crear el dataset de entrenamiento
-* Libro en formato txt para crear el dataset sinetiquetas de clase
+* Libro en formato txt para crear el dataset sin etiquetas de clase
+* Archivos en formato txt: palabras, adejetivos, sentimientos.
+
+Una vez que se tiene todos los requerimientos se de importar el proyecto en eclipse y ejecutarlo.
