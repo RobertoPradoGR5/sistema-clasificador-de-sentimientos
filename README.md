@@ -10,6 +10,6 @@ El objetivo principal del proyecto consiste en crear un clasificador con una alt
 Para realizar pruebas se utilizó los algoritmos naive Bayes o J48 utilizando el API de Weka para Java.
 
 # Herramienta usada
- es una plataforma de software compuesto por un conjunto de herramientas de programación de código abierto multiplataforma para desarrollar lo que el proyecto llama "Aplicaciones de Cliente Enriquecido", opuesto a las aplicaciones "Cliente-liviano" basadas en navegadores.
+ Eclipse es una plataforma de software compuesto por un conjunto de herramientas de programación de código abierto multiplataforma para desarrollar lo que el proyecto llama "Aplicaciones de Cliente Enriquecido", opuesto a las aplicaciones "Cliente-liviano" basadas en navegadores.
  
  Versión usada: Eclipse Luna Service Release 2 (4.4.2)
