@@ -18,6 +18,6 @@ Para realizar pruebas se utilizó los algoritmos naive Bayes o J48 utilizando el
 
 | Fases       | Descripción          |
 | ------------- |:-------------:| 
-| Inicio      | El clasificador debe ser capaz de discernir qué tipo de información subjetiva expresa cada oración de un libro. Por ejemplo,| 
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |   
+| Clasificación      | El clasificador debe ser capaz de discernir qué tipo de información subjetiva expresa cada oración de un libro. Expresa información neutral, objetiva o factual| 
+| Preprocesamiento     | Se debe convertir el archivo libro.txt en libro.arff de tal manera que se identifiquen claramente los atributos que se utilizaron para definir el modelo y la clase esté correcta.     |   
+| Creación del modelo y evaluación del mismo | Una vez que se cuente con el archivo libro.arff (training dataset), se debe proceder a crear un modelo utilizando cualquier algoritmo de clasificación (Naive Bayes, árboles de decisión, redes neuronales, SVMs, etc.) En esta fase, deberán utilizar el modelo y evaluar con el algoritmo de cross-validation para determinar la precisión del mismo.      |   
