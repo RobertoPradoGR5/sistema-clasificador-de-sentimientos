@@ -23,3 +23,13 @@ Para realizar pruebas se utilizó los algoritmos naive Bayes o J48 utilizando el
 | Creación del modelo y evaluación del mismo | Una vez que se cuente con el archivo libro.arff (training dataset), se debe proceder a crear un modelo utilizando cualquier algoritmo de clasificación (Naive Bayes, árboles de decisión, redes neuronales, SVMs, etc.). En esta fase, deberán utilizar el modelo y evaluar con el algoritmo de cross-validation para determinar la precisión del mismo.      |
 |Procesamiento de libro 2|Se lee un libro2.txt que contiene la información de otro libro, para que lo clasifiquen utilizando el modelo generado previamente. El resultado de esta fase debería ser un archivo llamado libro2.arff con su respectiva clasificación|
 |Verificación|Se verificará la precisión de su clasificador utilizando un dataset previamente clasificado y comparando su archivo libro2.txt con el archivo de dicho libro ya clasificado.|
+
+# Funcionamiento
+## Requerimientos
+* Java
+* Eclipse IDE
+* WEKA API para JAVA
+
+## Archivos necesarios
+* Libro en formato txt para crear el dataset de entrenamiento
+* Libro en formato txt para crear el dataset sinetiquetas de clase
